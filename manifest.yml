@@ -3,3 +3,4 @@ applications:
 - name: TestPipeline123456
   memory: 64M
   instances: 1
+  path: target/HelloWorldWar-1.0.0.war
